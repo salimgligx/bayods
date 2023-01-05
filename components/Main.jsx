@@ -1,7 +1,7 @@
 import React from "react";
 import Link from "next/link";
 import Image from "next/image";
-import MainImg from "../public/assets/Hero-img.png";
+import MainImg from "../public/assets/hero-img.png";
 import { motion } from "framer-motion";
 const Main = () => {
   return (
